@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hello Games</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description1">First game of the list</string>
+    <string name="description2">Second game of the list</string>
+    <string name="description3">Third game of the list</string>
+    <string name="description4">Fourth game of the list</string>
+    <string name="description5">Picture of the game</string>
+    <string name="gameinfos">Game Info</string>
+    <string name="name">Name:</string>
+    <string name="type">Type:</string>
+    <string name="playeurs">Nb players:</string>
+    <string name="year">Year:</string>
+    <string name="button">DO YOU WANT TO KNOW MORE ?</string>
+</resources>
